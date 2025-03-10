@@ -10,6 +10,7 @@ tag = 'tags'
 # Meta description
 description = "Your Personal Website"
   hidePagination = true
+  hideFooter = true
 
 # Appearance settings
 theme = 'light'
