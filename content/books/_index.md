@@ -40,7 +40,7 @@ Rather than trying to read dozens of books, I suggest finding a few good ones th
 
 **Key Takeaways:** Create proprietary processes that deliver consistent results even when you're not involved. Focus on a scalable niche rather than being a generalist. Demonstrate recurring revenue and client diversity to maximise business value, whether or not you ever plan to sell.
 
-## 5. Getting Everything You Can Out of All You've Got
+## 5. Getting Everything You Can Out of All You&#39;ve Got
 
 **Overview:** Jay Abraham's marketing guide to maximising underutilised business assets.
 
