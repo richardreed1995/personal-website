@@ -18,7 +18,9 @@ hideHeader = false
 # Intro on main page, content is markdown
 homeIntroTitle = "Hi 👋 I'm Rich!"
 homeIntroContent = """
-I'm into B2B growth, AI, and automations. This is my personal website where I share my latest thoughts, useful links, and resources.
+I'm into B2B growth, AI, and automations. 
+
+This is my personal website where I share my latest thoughts, useful links, and resources.
 
 * Founder of pushsend.co 
 * Get all my free resources here 
