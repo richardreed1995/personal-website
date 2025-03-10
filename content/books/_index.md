@@ -80,7 +80,7 @@ Rather than trying to read dozens of books, I suggest finding a few good ones th
 
 **Key Takeaways:** The thinking mind often creates suffering through endless rumination and projection that rarely matches reality. Presence dissolves ego-based problems by bringing attention to what is actually happening rather than our stories about it. Inner alignment and peace create the foundation for more effective action and decision-making in business.
 
-## 10. What Got You Here Won't Get You There
+## 10. What Got You Here Won&#39;t Get You There
 
 **Overview:** A handbook on overcoming success-limiting behaviours.
 
