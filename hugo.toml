@@ -16,7 +16,7 @@ colorPalette = 'default'
 hideHeader = false
 
 # Intro on main page, content is markdown
-homeIntroTitle = 'Hello!'
+homeIntroTitle = 'Hello! 👋'
 homeIntroContent = """
 Welcome to my personal website. This is where I share my thoughts, experiences, and projects.
 """
