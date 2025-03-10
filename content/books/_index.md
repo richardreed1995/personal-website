@@ -4,13 +4,13 @@ date: "2025-03-09"
 description: "Books that have shaped my thinking and perspective"
 ---
 
-# Books That Shaped My Entrepreneurial Journey
+These books have shaped my thinking and guided my entrepreneurial journey. They're the ones I consistently recommend to others.
 
-These are some of the books which have shaped my thinking and helped me on my entrepreneurial path, and these are the ones that I commonly recommend. I often will re-read these books and recommend that people, instead of trying to read more books, read less but try and find the ones which you get the most out of and then just keep re-reading them until you've got all you can out of them. Because often on the first read you only get 10-20% out of the book, I highly recommend just re-reading them, creating frameworks around them and really trying to study and distill the knowledge from a few books rather than trying to get knowledge from tons of different books!
+Rather than trying to read dozens of books, I suggest finding a few good ones that resonate with you and re-reading them until you've extracted their full value. On your first read, you typically only absorb 10-20% of a book's wisdom. By re-reading, creating frameworks, implementing them, and changing your behviour, you'll get far more from them.
 
 ## 1. Millionaire Fastlane
 
-**Overview:** MJ DeMarco's contrarian wealth-building guide that rejects traditional slow-path financial planning.
+**Overview:** A contrarian wealth-building guide that rejects traditional slow-path financial planning.
 
 **What I Learned:** Building scalable businesses with control over your income and time is the real path to wealth, not saving a percentage of your paycheck over decades. The book opened my eyes to the mathematics of wealth creation and why traditional employment rarely leads to true financial freedom, especially while young.
 
@@ -18,7 +18,7 @@ These are some of the books which have shaped my thinking and helped me on my en
 
 ## 2. How to Get Rich
 
-**Overview:** Felix Dennis' brutally honest memoir about his journey to extreme wealth.
+**Overview:** An honest memoir about a journey to extreme wealth.
 
 **What I Learned:** Becoming rich demands uncommon sacrifice, focus, and willingness to make difficult decisions that most people avoid. The book's candour about the loneliness and challenges of entrepreneurship prepared me for the realities of building a business, helping me understand that my struggles weren't unique but part of the journey everyone faces.
 
@@ -26,7 +26,7 @@ These are some of the books which have shaped my thinking and helped me on my en
 
 ## 3. The Dip
 
-**Overview:** Seth Godin's short guide on strategic quitting versus perseverance.
+**Overview:** A short guide on strategic quitting versus perseverance.
 
 **What I Learned:** Success requires pushing through difficult periods in worthwhile ventures while abandoning pursuits that won't lead to exceptional outcomes. This concept helped me recognise when I was facing a temporary challenge worth overcoming versus when I was stubbornly persisting with a fundamentally flawed approach or market.
 
@@ -34,7 +34,7 @@ These are some of the books which have shaped my thinking and helped me on my en
 
 ## 4. Built to Sell
 
-**Overview:** John Warrillow's business parable about creating a valuable, owner-independent company.
+**Overview:** A business parable about creating a valuable, owner-independent company.
 
 **What I Learned:** Building a sellable business requires systematising operations, specialising offerings, and reducing dependency on the founder. This book provided a practical framework for structuring my marketing agency to avoid the common trap of trying to do everything for everyone, which leads to burnout and creates a business that can't function without me.
 
@@ -50,7 +50,7 @@ These are some of the books which have shaped my thinking and helped me on my en
 
 ## 6. 10x Is Easier Than 2x
 
-**Overview:** Sullivan and Hardy's case for transformational rather than incremental growth.
+**Overview:** A case for transformational rather than incremental growth.
 
 **What I Learned:** Seeking massive improvement forces innovative thinking and attracts better resources, while small improvements keep you trapped in existing paradigms. The concept that thinking bigger actually simplifies decision-making by eliminating short-term distractions helped me focus on building for long-term success rather than immediate gratification.
 
@@ -58,7 +58,7 @@ These are some of the books which have shaped my thinking and helped me on my en
 
 ## 7. 100M Leads
 
-**Overview:** Alex Hormozi's systematic approach to scaling lead generation for business growth.
+**Overview:** A systematic approach to scaling lead generation for business growth.
 
 **What I Learned:** Creating high-converting offers and implementing proven marketing funnels can systematically grow a business to extraordinary levels. The book provided a practical framework for generating leads both for my agency and my clients, cutting through the complexity of marketing to focus on what actually drives conversions.
 
@@ -66,7 +66,7 @@ These are some of the books which have shaped my thinking and helped me on my en
 
 ## 8. Beyond the Agency Box
 
-**Overview:** Guide to expanding traditional agency business models beyond service-based revenue.
+**Overview:** A guide to expanding traditional agency business models beyond service-based revenue.
 
 **What I Learned:** Agencies can escape time-for-money constraints by developing products, systems and recurring revenue streams. This approach helped me see how to simplify and productise services while improving the client journey, creating more stability for my business without sacrificing myself through endless customisation and client demands.
 
@@ -74,7 +74,7 @@ These are some of the books which have shaped my thinking and helped me on my en
 
 ## 9. The Power of Now
 
-**Overview:** Eckhart Tolle's spiritual guide to present-moment awareness and consciousness.
+**Overview:** A spiritual guide to present-moment awareness and consciousness.
 
 **What I Learned:** Most psychological suffering comes from dwelling on past regrets or future anxieties rather than engaging fully with the present moment. This perspective helped me manage the stress of entrepreneurship by recognising when my mind was creating unnecessary anxiety about hypothetical outcomes rather than focusing on what I could control in the present.
 
@@ -82,7 +82,7 @@ These are some of the books which have shaped my thinking and helped me on my en
 
 ## 10. What Got You Here Won't Get You There
 
-**Overview:** Marshall Goldsmith's executive coaching handbook on overcoming success-limiting behaviours.
+**Overview:** A handbook on overcoming success-limiting behaviours.
 
 **What I Learned:** The very behaviours that enabled early career success often become obstacles at higher levels of achievement. This insight helped me recognise that doing more of what made me successful initially wasn't always the answer, and sometimes doing less—particularly stopping counterproductive habits—was the key to reaching the next level.
 
