@@ -9,6 +9,7 @@ tag = 'tags'
 [params]
 # Meta description
 description = "Your Personal Website"
+  hidePagination = true
 
 # Appearance settings
 theme = 'light'

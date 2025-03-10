@@ -1,6 +1,5 @@
 ---
 title: "Useful Resources"
-date: "2025-03-10"
 description: "A collection of resources I find useful and refer to often"
 ---
 

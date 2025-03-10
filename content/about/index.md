@@ -1,6 +1,5 @@
 ---
 title: "About Me"
-date: "2025-03-09"
 ---
 
 Here's a quick overview of my background:
