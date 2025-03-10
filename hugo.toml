@@ -1,6 +1,6 @@
 baseURL = '/'
 languageCode = 'en-gb'
-title = 'Richard Reed'
+title = 'Rich Reed'
 theme = 'typo'
 
 [taxonomies]
