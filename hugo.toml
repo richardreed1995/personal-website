@@ -63,3 +63,12 @@ url = "/books"
 [markup]
 [markup.highlight]
 style = 'algol'
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+  [markup.goldmark.parser]
+    [markup.goldmark.parser.attribute]
+      block = true
+      title = true
