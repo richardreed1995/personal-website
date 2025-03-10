@@ -9,8 +9,9 @@ tag = 'tags'
 [params]
 # Meta description
 description = "Your Personal Website"
-  hidePagination = true
-  hideFooter = true
+hidePagination = true
+showFooter = true
+footerContent = "Your **custom** md `footer`"
 
 # Appearance settings
 theme = 'light'
