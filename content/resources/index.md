@@ -4,8 +4,6 @@ date: "2025-03-10"
 description: "A collection of resources I find useful and refer to often"
 ---
 
-# Useful Resources
-
 This is a collection of resources I've found valuable in various areas. I'm sharing them here in case they're helpful to others as well.
 
 ## Books
