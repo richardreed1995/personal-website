@@ -16,9 +16,17 @@ colorPalette = 'default'
 hideHeader = false
 
 # Intro on main page, content is markdown
-homeIntroTitle = 'Hello! 👋'
+homeIntroTitle = 'Hi 👋 I'm Rich!'
 homeIntroContent = """
-Welcome to my personal website. This is where I share my thoughts, experiences, and projects.
+I'm into B2B growth, AI, and automations. This is my personal website where I share my latest thoughts, useful links, and resources.
+
+* Founder of pushsend.co 
+* Get all my free resources here 
+* Sign up to my newsletter here 
+* I write on Twitter and LinkedIn
+* I post videos on YouTube 
+* I post photos and videos on Instagram 
+* You can email me at hi@richreed.co
 """
 
 # Collection to display on home
