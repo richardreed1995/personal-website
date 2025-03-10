@@ -70,6 +70,10 @@ url = "/about"
 name = "books"
 url = "/books"
 
+[[params.menu]]
+name = "resources"
+url = "/resources"
+
 # Syntax highlight and markdown settings
 [markup]
   [markup.highlight]
