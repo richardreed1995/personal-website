@@ -11,7 +11,7 @@ tag = 'tags'
 description = "Your Personal Website"
 hidePagination = true
 showFooter = true
-footerContent = "© {{ now.Format "2006" }} Richard Reed"
+footerContent = "©2025 Richard Reed"
 
 # Appearance settings
 theme = 'light'
