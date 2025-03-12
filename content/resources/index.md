@@ -3,27 +3,18 @@ title: "Useful Resources"
 description: "A collection of resources I find useful and refer to often"
 ---
 
-This is a collection of resources I've found valuable in various areas. I'm sharing them here in case they're helpful to others as well.
+### War Map [(link)](https://docs.google.com/spreadsheets/d/1GzkgF_IBwIlCvrrfnn7KVwphpbBJmXDrNiM56ceKnVA/edit?gid=2020244050#gid=2020244050)
 
-## Books
-- [My Book Recommendations](/books) - For a detailed list of my favourite books and what I've learned from them
+One of Sam Ovens' best resources. 
 
-## Software Development
-- [Resource Name](https://example.com) - Brief description of why this resource is valuable
-- [Resource Name](https://example.com) - Brief description of why this resource is valuable
+### The Mochary Method [(link)](https://docs.google.com/document/d/18FiJbYn53fTtPmphfdCKT2TMWH-8Y2L-MLqDk-MFV4s/edit?tab=t.0)
 
-## Productivity Tools
-- [Resource Name](https://example.com) - Brief description of why this resource is valuable
-- [Resource Name](https://example.com) - Brief description of why this resource is valuable
+A great hub of resources for leaders 
 
-## Learning Resources
-- [Resource Name](https://example.com) - Brief description of why this resource is valuable
-- [Resource Name](https://example.com) - Brief description of why this resource is valuable
+### 100 Hook Ideas [(link)](https://docs.google.com/spreadsheets/d/1g9KMatBAbJirUSHIICqEsNCT6C15awJ1uHDG17-Oy5k/edit?usp=sharing)
 
-## Newsletters
-- [Resource Name](https://example.com) - Brief description of why this resource is valuable
-- [Resource Name](https://example.com) - Brief description of why this resource is valuable
+Doesn't matter how good your content is if you can't hook the viewer and convince them to keep watching
 
-## Websites and Blogs
-- [Resource Name](https://example.com) - Brief description of why this resource is valuable
-- [Resource Name](https://example.com) - Brief description of why this resource is valuable
+### Habit Tracker [(link)](https://progressprotocol.carrd.co/)
+
+I use this habit tracker to keep on top of my health and fitness habits
