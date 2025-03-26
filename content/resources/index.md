@@ -3,7 +3,7 @@ title: "Useful Resources"
 description: "A collection of resources I find useful and refer to often"
 ---
 
-### War Map test
+### War Map
 
 One of Sam Ovens' best resources. 
 
