@@ -120,7 +120,7 @@ Paused as it was getting increasingly hard to find success for clients unless th
 
 export const statusConfig = {
   active: { label: 'Active', color: '#d1fae5', textColor: '#15803b' },
-  building: { label: 'Building', color: '#fcd34d', textColor: '#c2410c' },
+  building: { label: 'Building', color: '#fef08a', textColor: '#d97706' },
   completed: { label: 'Completed', color: '#99f6e4', textColor: '#0891b2' },
-  paused: { label: 'Paused', color: '#e5e7eb', textColor: '#9ca3af' },
+  paused: { label: 'Paused', color: '#e5e7eb', textColor: '#7c8574' },
 }
