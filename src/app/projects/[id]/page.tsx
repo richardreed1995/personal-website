@@ -33,9 +33,12 @@ export default async function ProjectPage({ params }: { params: Promise<{ id: st
         <div className="project-detail-info">
           <h1 className="section-title">{project.title}</h1>
           <div className="project-meta">
-            <span 
+            <span
               className="project-status"
-              style={{ backgroundColor: statusConfig[project.status].color }}
+              style={{
+                backgroundColor: statusConfig[project.status].color,
+                color: statusConfig[project.status].textColor
+              }}
             >
               {statusConfig[project.status].label}
             </span>

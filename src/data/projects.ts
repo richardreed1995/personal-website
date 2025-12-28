@@ -16,16 +16,23 @@ export const projects: Project[] = [
   {
     id: 'sendlead-agency',
     title: 'Sendlead Agency',
-    description: 'B2B growth agency helping companies scale their outbound and inbound marketing.',
-    longDescription: `Sendlead Agency is a B2B growth agency focused on helping companies scale their marketing efforts. We specialize in outbound campaigns, content marketing, and marketing automation.
+    description: 'Pay-per-lead agency specializing in finance, insurance, and healthcare.',
+    longDescription: `Sendlead is a pay-per-lead agency delivering large numbers of qualified leads exclusively to your business.
 
-After years of working in agencies and in-house roles, I noticed a gap in the market for an agency that truly understood the B2B buyer journey and could deliver measurable results.
+We specialize in finance, insurance, and healthcare sectors with real-time delivery directly to your CRM. Our AI-powered qualification system checks 14+ data points before any lead reaches you, ensuring only serious buyers with verified budgets get through.
 
-We work with SaaS companies, professional services firms, and B2B tech companies to generate qualified leads and build sustainable growth engines.`,
+Key features:
+- 100% exclusive leads
+- AI-powered qualification (14+ point system)
+- Real-time OTP verification
+- 24-step follow-up and nurturing
+- Proven results: 67% conversion improvement, 85% connect rates
+
+Partners see measurable ROI with transparent pricing and no setup fees.`,
     icon: 'rocket',
     status: 'active',
-    category: 'Business',
-    tags: ['Agency', 'B2B', 'Marketing'],
+    category: 'Agency',
+    tags: ['Leads', 'Finance', 'Insurance', 'Healthcare'],
     link: 'https://sendlead.co',
     year: 2024,
     featured: true,
@@ -112,8 +119,8 @@ Paused as it was getting increasingly hard to find success for clients unless th
 ]
 
 export const statusConfig = {
-  active: { label: 'Active', color: '#22c55e' },
-  building: { label: 'Building', color: '#f59e0b' },
-  completed: { label: 'Completed', color: '#0ea5e9' },
-  paused: { label: 'Paused', color: '#94a3b8' },
+  active: { label: 'Active', color: '#22c55e', textColor: '#0d6e2e' },
+  building: { label: 'Building', color: '#f59e0b', textColor: '#c7570a' },
+  completed: { label: 'Completed', color: '#0ea5e9', textColor: '#0a8a5d' },
+  paused: { label: 'Paused', color: '#94a3b8', textColor: '#6b7280' },
 }
