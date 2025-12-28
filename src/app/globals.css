@@ -404,7 +404,7 @@ a:hover {
 }
 
 .list-icon {
-  font-size: 0.9rem;
+  font-size: 0.75rem;
   color: var(--color-text-light);
 }
 
@@ -671,7 +671,7 @@ a:hover {
 }
 
 .resource-icon {
-  font-size: 1rem;
+  font-size: 0.85rem;
   flex-shrink: 0;
   color: var(--color-text-light);
 }
