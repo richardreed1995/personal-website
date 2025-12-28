@@ -40,9 +40,6 @@ export default function MusicPlayer() {
   const { currentSong, isPlaying, volume, togglePlay, nextSong, prevSong, setVolume, closePlayer } = useMusic()
   const playerRef = useRef<YTPlayer | null>(null)
   const isPlayerReady = useRef(false)
-  const [currentTime, setCurrentTime] = useState(0)
-  const [duration, setDuration] = useState(0)
-  const intervalRef = useRef<NodeJS.Timeout | null>(null)
 
   // Load YouTube API
   useEffect(() => {
@@ -57,37 +54,6 @@ export default function MusicPlayer() {
   const handleNext = useCallback(() => {
     nextSong()
   }, [nextSong])
-
-  // Update progress bar
-  useEffect(() => {
-    if (isPlaying && isPlayerReady.current) {
-      intervalRef.current = setInterval(() => {
-        if (playerRef.current && isPlayerReady.current) {
-          try {
-            const time = playerRef.current.getCurrentTime()
-            const dur = playerRef.current.getDuration()
-            if (!isNaN(time) && !isNaN(dur) && dur > 0) {
-              setCurrentTime(time)
-              setDuration(dur)
-            }
-          } catch (e) {
-            // Player not ready, ignore
-          }
-        }
-      }, 500)
-    } else {
-      if (intervalRef.current) {
-        clearInterval(intervalRef.current)
-        intervalRef.current = null
-      }
-    }
-
-    return () => {
-      if (intervalRef.current) {
-        clearInterval(intervalRef.current)
-      }
-    }
-  }, [isPlaying])
 
   // Initialize player once
   useEffect(() => {
@@ -125,19 +91,8 @@ export default function MusicPlayer() {
             isPlayerReady.current = true
             event.target.setVolume(volume)
             event.target.playVideo()
-            const dur = event.target.getDuration()
-            if (!isNaN(dur) && dur > 0) {
-              setDuration(dur)
-            }
           },
           onStateChange: (event: { data: number; target: YTPlayer }) => {
-            // 1 = playing, 2 = paused
-            if (event.data === 1) {
-              const dur = event.target.getDuration()
-              if (!isNaN(dur) && dur > 0) {
-                setDuration(dur)
-              }
-            }
             // 0 = ended, auto-play next
             if (event.data === 0) {
               handleNext()
@@ -158,8 +113,6 @@ export default function MusicPlayer() {
   useEffect(() => {
     if (currentSong && playerRef.current && isPlayerReady.current) {
       playerRef.current.loadVideoById(currentSong.youtubeId)
-      setCurrentTime(0)
-      setDuration(0)
     }
   }, [currentSong?.id])
 
@@ -218,20 +171,6 @@ export default function MusicPlayer() {
     }
   }
 
-  const formatTime = (seconds: number) => {
-    const mins = Math.floor(seconds / 60)
-    const secs = Math.floor(seconds % 60)
-    return `${mins}:${secs.toString().padStart(2, '0')}`
-  }
-
-  const handleSeek = (e: React.ChangeEvent<HTMLInputElement>) => {
-    const time = Number(e.target.value)
-    if (playerRef.current && isPlayerReady.current && duration > 0) {
-      playerRef.current.seekTo(time, true)
-      setCurrentTime(time)
-    }
-  }
-
   return (
     <div className="music-player">
       <div className="player-main">
@@ -275,21 +214,6 @@ export default function MusicPlayer() {
               aria-label="Volume"
             />
           </div>
-        </div>
-
-        <div className="player-progress">
-          <span className="time-display">{formatTime(currentTime)}</span>
-          <input
-            type="range"
-            min="0"
-            max={duration || 100}
-            value={currentTime}
-            onChange={handleSeek}
-            className="progress-slider"
-            aria-label="Seek"
-            disabled={duration === 0}
-          />
-          <span className="time-display">{formatTime(duration)}</span>
         </div>
       </div>
 
