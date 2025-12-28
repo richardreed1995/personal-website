@@ -119,8 +119,8 @@ Paused as it was getting increasingly hard to find success for clients unless th
 ]
 
 export const statusConfig = {
-  active: { label: 'Active', color: '#22c55e', textColor: '#14532d' },
-  building: { label: 'Building', color: '#f59e0b', textColor: '#9a3412' },
-  completed: { label: 'Completed', color: '#0ea5e9', textColor: '#074c6b' },
-  paused: { label: 'Paused', color: '#94a3b8', textColor: '#4b5563' },
+  active: { label: 'Active', color: '#d1fae5', textColor: '#15803b' },
+  building: { label: 'Building', color: '#fcd34d', textColor: '#c2410c' },
+  completed: { label: 'Completed', color: '#99f6e4', textColor: '#0891b2' },
+  paused: { label: 'Paused', color: '#e5e7eb', textColor: '#9ca3af' },
 }
