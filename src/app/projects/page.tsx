@@ -74,9 +74,12 @@ export default function Projects() {
               <span className="list-icon">{iconMap[project.icon]}</span>
               <span className="list-title">{project.title}</span>
             </Link>
-            <span 
+            <span
               className="list-status"
-              style={{ color: statusConfig[project.status].color }}
+              style={{
+                backgroundColor: statusConfig[project.status].color,
+                color: statusConfig[project.status].textColor
+              }}
             >
               {statusConfig[project.status].label}
             </span>
